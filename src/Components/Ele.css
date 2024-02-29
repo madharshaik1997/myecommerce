@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    height: 300px;
+    width : 300px;
+   
+}
+/* .allimages{
+    display: flex;
+} */
+/* .surroundimage{
+    width: 70%;
+    margin-bottom: 30px;
+    margin-left: 40px;
+
+} */
+body{
+    background-color: rgb(92, 123, 146);
+}
+.btn-primary:hover{
+background-color: red;
+}
